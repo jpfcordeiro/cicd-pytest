@@ -1,0 +1,3 @@
+name: Testes com pytest
+
+on: [push, pull_request]
